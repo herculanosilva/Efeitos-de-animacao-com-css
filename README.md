@@ -1,2 +1,5 @@
 # efeitos-de-anima-o-com-css
-Efeitos de animação de texto com CSS
+Efeitos de animação de texto com CSS 
+
+Inspirado em: CSS Loading Text Animation Effects  https://youtu.be/Ebn7YlsHqPo
+
